@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "What is Cyberbullying?",
+      "options": [
+        "Online harassment",
+        "Positive interaction",
+        "Offline bullying",
+        "None of the above"
+      ],
+      "answer": "Online harassment"
+    },
+    {
+      "question": "What is Digital Citizenship?",
+      "options": [
+        "Responsible use of technology",
+        "Use of technology for fun",
+        "Social media addiction",
+        "None of the above"
+      ],
+      "answer": "Responsible use of technology"
+    },
+    {
+      "question": "What does Digital Literacy include?",
+      "options": [
+        "Using ICT tools effectively",
+        "Reading books",
+        "Avoiding technology",
+        "None of the above"
+      ],
+      "answer": "Using ICT tools effectively"
+    }
+  ],
+  "results": [
+    {
+      "username": "umer",
+      "score": 3
+    },
+    {
+      "username": "umer",
+      "score": 2
+    },
+    {
+      "username": "umer",
+      "score": 1
+    }
+  ]
+}
