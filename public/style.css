@@ -586,7 +586,7 @@
     .lesson-content, .resources-grid, .scenario-container {
       grid-template-columns: 1fr;
     }
-  }/* Leaderboard Styles */
+  } 
 .leadrbaord {
     max-width: 800px;
     margin: 50px auto;
